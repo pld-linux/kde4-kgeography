@@ -2,7 +2,7 @@
 %define		orgname		kgeography
 
 Summary:	K Desktop Environment - A geography learning program
-Summary(pl_PL.UTF8):	K Desktop Environment - Program do nauki geografii
+Summary(pl.UTF-8):	K Desktop Environment - Program do nauki geografii
 Name:		kde4-kgeography
 Version:	4.9.1
 Release:	1
