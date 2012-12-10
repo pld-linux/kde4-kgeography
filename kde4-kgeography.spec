@@ -4,12 +4,12 @@
 Summary:	K Desktop Environment - A geography learning program
 Summary(pl.UTF-8):	K Desktop Environment - Program do nauki geografii
 Name:		kde4-kgeography
-Version:	4.9.1
+Version:	4.9.4
 Release:	1
 License:	GPL
 Group:		X11/Applications/Science
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	ef34a429ea5bf4b87ee1e1467b773af2
+# Source0-md5:	27e3192a4a27a147a8fbad71a39ce82d
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdelibs-devel
 Obsoletes:	kde4-kdeedu-kgeography < 4.6.99
